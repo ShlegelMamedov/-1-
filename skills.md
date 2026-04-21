@@ -5,4 +5,4 @@
 - Инструменты: [Git, VS Code]
 - Технологии: [HTML/CSS, React, Unity]
  
- мы разбираюсь в git hub Desktop 
+ #мы разбираемся в git hub Desktop 
